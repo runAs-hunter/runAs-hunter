@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @runAs-hunter
-- 👀 I’m interested in building cool and functional apps with the use of AI of course
+- 👀 I’m interested in building cool and functional apps with the use of AI
 - 🌱 I’m currently learning fullstack development
 - ⚡ Fun fact: ...
